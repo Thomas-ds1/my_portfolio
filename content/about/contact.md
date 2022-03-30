@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Get in touch
+title: Get in touch with me 
 subtitle:
 
 content:
@@ -23,7 +23,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: False
 
 design:
   columns: '1'
