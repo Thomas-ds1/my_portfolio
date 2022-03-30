@@ -6,11 +6,11 @@ title: Thomas De Sousa
 superuser: true
 
 # Role/position
-role: ''
+role: 'Looking for PhD program'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚀
 
 # Organizations/Affiliations
 #organizations:
